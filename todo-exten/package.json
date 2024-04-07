@@ -1,6 +1,6 @@
 {
   "name": "giaic-todo-extended-version",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "this iss my CLI interactive todo list ",
   "main": "index.js",
   "type": "module",
